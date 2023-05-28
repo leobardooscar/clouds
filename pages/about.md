@@ -19,8 +19,21 @@ According to [World Meteorological Organization](https://public.wmo.int/en), "In
 Sometimes, names of meteors are also applied to related concepts. For instance, the word 'snow' may refer to a type of hydrometeor (ensemble of falling particles), to snow cover (ensemble of particles lying on the ground) or to the substance snow (as in 'snow blown from mountains' or a snowball). The constituent particles of snow in these three cases are either snow crystals or snowflakes.
 
 Also, certain meteors are named based on their constituent particles; for example, the hydrometeor 'snow grains' is an ensemble of falling snow grains."
-[International Cloud Atlas](https://cloudatlas.wmo.int/en/home.html)  
+
   
+## Clouds classification
+
+Definition of a cloud(Section 2.1.1)
+
+A cloud is a hydrometeor consisting of minute particles of liquid water or ice, or of both, suspended in the atmosphere and usually not touching the ground. It may also include larger particles of liquid water or ice, as well as non-aqueous liquid or solid particles such as those present in fumes, smoke or dust.
+
+<!--Types of clouds depending on altitude -->
+<img src="objects/altitude_type_clouds_schemma.jpg" width="100%">
+
+*The caption for my image*
+
+
+
 
 ## About the Collection
 
