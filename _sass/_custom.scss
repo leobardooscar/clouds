@@ -3,6 +3,8 @@
     This allows you to override any CollectionBuilder or Bootstrap CSS without modifying the base theme files directly.
 */
 
+/* Main menu */
+
 li a.active
 {
 background-color: #FF4500;
@@ -28,3 +30,37 @@ background-color: #FF4500;
     .about-contents>h2 {
         padding-top: 50px;
     }
+
+
+
+/* Timeline section */
+
+table#timeline>tbody>tr:nth-of-type(odd)>* {
+    --bs-table-accent-bg: #fff;
+    
+}
+
+
+/*  Table rows' gutter */
+table#timeline .row
+
+{
+    --bs-gutter-x: 2.5rem;
+    --bs-gutter-y: 2.5rem;
+}
+
+/* Image frame */
+table#timeline img.img-thumbnail
+{
+    border: 0px
+}
+
+img.img-thumbnail
+{
+    transition: transform .2s; /* Animation */
+}
+
+
+img.img-thumbnail:hover {
+    transform: scale(1.1); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+  }
