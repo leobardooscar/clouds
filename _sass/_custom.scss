@@ -41,8 +41,9 @@ table#timeline>tbody>tr:nth-of-type(odd)>* {
 }
 
 
-/*  Table rows' gutter */
-table#timeline .row
+/*  Table rows' gutter Timeline & Browse */
+table#timeline .row,
+div#browseItems .row
 
 {
     --bs-gutter-x: 2.5rem;
@@ -51,13 +52,24 @@ table#timeline .row
 
 /* Image frame */
 table#timeline img.img-thumbnail
+div#browseItems img.card-img
 {
     border: 0px
 }
 
-img.img-thumbnail
+/* Image Zoom effect: Timeline & Browse */
+
+img.img-thumbnail,
+img.card-img-top
 {
     transition: transform .2s; /* Animation */
 }
+
+/* Image Zoom effect: Timeline & Browse */
+img.img-thumbnail:hover,
+img.card-img-top:hover 
+{
+    transform: scale(1.1); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+  }
 
 
