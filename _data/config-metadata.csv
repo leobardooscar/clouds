@@ -1,9 +1,9 @@
 field,display_name,browse_link,external_link
-title,Title,
+classification,Classification,
 creator,Creator,
 date,Date Created,
 description,Description,
-classification, Genus
+genera, Genus
 subject,Subjects,true
 location,Location
 latitude,Latitude
