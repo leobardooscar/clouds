@@ -1,16 +1,16 @@
 field,display_name,browse_link,external_link
 classification,Classification,
-genera, Genus,
-identifier,Cloud identifier,true,
-description,Description,
-location,Spotted on,
-latitude,Latitude,
-longitude,Longitude,
-date,Date Created,
-subject,Subjects,true
-source,Source,
-type,Image Type,
-format,Format,
 creator,Creator,
+date,Date Created,
+description,Description,
+genera, Genus
+subject,Subjects,true
+location,Location
+latitude,Latitude
+longitude,Longitude
+source,Source
+identifier,Source Identifier,,
+type,Type,
+format,Format,
 rights,Rights,
 rightsstatement,Rights Statement,,true
