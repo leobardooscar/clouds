@@ -2,4 +2,4 @@ field,display_name,btn,hidden,sort_name
 classification, Type, , , Type 
 subject,Subject,false,true,Subject
 location,Location,false,true,Location
-date,Date,,,Date
+date,Date,false,true,Date
