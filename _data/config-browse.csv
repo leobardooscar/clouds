@@ -1,5 +1,5 @@
 field,display_name,btn,hidden,sort_name
 classification, Type, , , Type 
-subject,,,true
+subject,Subject,,true,Subject
 location,,,true
 date,Date,,,Date
