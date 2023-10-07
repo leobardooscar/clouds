@@ -1,5 +1,5 @@
 field,display_name,browse_link,external_link
-classification,Classification,,
+type,Type,,
 genera, Genus,,
 identifier,Cloud identifier,true,
 description,Description,,

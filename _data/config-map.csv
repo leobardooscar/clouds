@@ -1,6 +1,5 @@
 field,display_name,search
-classification, Classification
-genus, Genera
+type, Type
 date,Date,true
 creator,Creator,true
 subject,Subjects,false
