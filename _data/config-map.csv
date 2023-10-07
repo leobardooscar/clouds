@@ -1,5 +1,7 @@
 field,display_name,search
+classification, Classification
+genus, Genera
 date,Date,true
 creator,Creator,true
-subject,Subjects,true
-location,Location,true
+subject,Subjects,false
+location,Location,false

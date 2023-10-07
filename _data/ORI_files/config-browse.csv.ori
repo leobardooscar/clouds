@@ -1,0 +1,6 @@
+field,display_name,btn,hidden,sort_name
+classification, Classification, , , Type 
+genera, Genus,genus
+subject,,false
+location,,true
+date,Date,,,Date

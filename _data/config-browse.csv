@@ -1,5 +1,5 @@
 field,display_name,btn,hidden,sort_name
-classification, Type, , , Type 
-subject,,true
-location,,true
-date,Date,,,Date
+classification, Classification, true , , Classification 
+genus,Genera,true,,Genera
+subject,Subject,false,true,Subject
+date,Date,false,true,Date
