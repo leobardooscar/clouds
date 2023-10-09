@@ -1,11 +1,10 @@
 field,display_name,btn,hidden,sort_name
 type, Type,true,,Type 
-genera,Genus,true,,Genera
 species,Species,,,
 varieties,Varieties,,,
 features, Features,,,
-altitudid,Altitude,true,,
-season,Season,true,,
+altitudid,Altitude,true,,,
+season,Season,true,,,
 description,Description,false,true,false
 subject,Subject,false,true,Subject
 date,Date,false,true,Date
