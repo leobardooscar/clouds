@@ -3,7 +3,7 @@ type, Type,true,,Type
 species,Species,,,
 varieties,Varieties,,,
 features, Features,,,
-altitudid,Altitude,true,,,
+altitudid,Altitude,true,,
 season,Season,true,,,
 description,Description,false,true,false
 subject,Subject,false,true,Subject
