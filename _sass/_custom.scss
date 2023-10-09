@@ -12,18 +12,23 @@ background-color: #FF4500;
 
 /* Ajustes ABOUT */
 
-
-
 .about-contents>p, .about-contents>.about-narrowed-content, .about-contents>.footnotes, .about-contents>ol, .about-contents>ul 
 {    
-    max-width: 800px;
+    max-width: 90%;
 }
+
+
+
+
+/* Header */
 
 
     .about-contents>h1, .about-contents>h2, .about-contents>h3, .about-contents>h4, .about-contents>h5, .about-contents>h6 
     {
-        max-width: 800px;   
+        //max-width: 800px;
+        max-width: 90%;   
     }
+
 
     /* Margin top */
 

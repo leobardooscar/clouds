@@ -1,6 +1,7 @@
 field,display_name
 type,Type
-genera, Genus
+species,Species
+features,Features
+identifier,Cloud ID
 description,Description
-subject,Subjects
 date,Date
