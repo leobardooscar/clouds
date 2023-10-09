@@ -12,7 +12,8 @@
 #url: https://collectionbuilder.github.io 
 # baseurl is path to location on the domain if necessary e.g. /digital/hjccc
 # on GitHub Pages it is your github repository's name prefixed with a /
-#baseurl: /collectionbuilder-gh 
+baseurl: /clouds
+url: https://leobardooscar.github.io/clouds/
 # location of code, the full url to your github repository
 # source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 source-code: https://github.com/leobardooscar/clouds
@@ -35,7 +36,7 @@ author: Leobardo Oscar Alcántara Ocaña
 # Set the metadata for your collection (the name of the csv file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
 #metadata: demo-metadata 
-metadata: clouds_db_metadata_2
+metadata: clouds_db_metadata
 
 ##########
 # Site/Organization Branding 

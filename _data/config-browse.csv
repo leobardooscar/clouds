@@ -1,6 +1,5 @@
 field,display_name,btn,hidden,sort_name
 type, Type,true,,Type 
-genera,Genus,true,,Genera
 species,Species,,,
 varieties,Varieties,,,
 features, Features,,,
