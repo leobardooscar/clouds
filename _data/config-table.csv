@@ -1,7 +1,8 @@
 field,display_name
-type,Type
-species,Species
-features,Features
-identifier,Cloud ID
-description,Description
-date,Date
+type, Type
+species, Species
+varieties, Varieties
+features, Features
+identifier, Cloud ID
+description, Description
+date, Date

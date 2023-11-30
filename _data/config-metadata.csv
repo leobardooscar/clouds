@@ -1,7 +1,7 @@
 field,display_name,browse_link,external_link
 type,Type,,
-species, Species,,
-features,Features,,
+species, Species,true,
+features,Features,true,
 altitudeid,Altitude,,
 identifier,Cloud identifier,true,
 description,Description,,
