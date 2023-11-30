@@ -1,10 +1,6 @@
 field,display_name,btn,hidden,sort_name
 type, Type,true,,Type 
-species,Species,,,
-varieties,Varieties,,,
-features, Features,,,
-altitudid,Altitude,true,,
-season,Season,true,,
-description,Description,false,true,false
-subject,Subject,false,true,Subject
-date,Date,false,true,Date
+species,Species,true,,Species
+varieties,Varieties,true,,Varieties
+features,Features,true,,Features
+altitudeid,Altitude,true,,Altitude
