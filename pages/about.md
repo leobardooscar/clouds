@@ -23,7 +23,7 @@ Also, certain meteors are named based on their constituent particles; for exampl
   
 ## Clouds classification
 
-Definition of a cloud(Section 2.1.1)
+Definition of a cloud (Section 2.1.1)
 
 A cloud is a hydrometeor consisting of minute particles of liquid water or ice, or of both, suspended in the atmosphere and usually not touching the ground. It may also include larger particles of liquid water or ice, as well as non-aqueous liquid or solid particles such as those present in fumes, smoke or dust.
 
@@ -32,6 +32,18 @@ A cloud is a hydrometeor consisting of minute particles of liquid water or ice, 
 
 *The caption for my image*
 
+
+## Author
+
+Leobardo Óscar Alcántara Ocaña. Photographer, Librarian and Web designer.
+
+<p> I'm not a meteorologist. I'm just an enthusiast of weather phenomena and cloud observation and appreciation. Therefore, cloud classification may not be accurate.
+For comprehensive technical and accurate data and information about clouds and other meteors, visit the <a href="https://cloudatlas.wmo.int/en/foreword-to-the-2017-edition.html" title=""> 
+"International Cloud Atlas" </a> from the <a href="" title="https://wmo.int/"> World Meteorological Organization </a>. </p>
+
+Feel free to email me at leobardooscar@gmail.com if you have any data corrections, comments or suggestions.
+
+Happy watching! :-)
 
 
 

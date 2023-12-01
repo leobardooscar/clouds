@@ -1,8 +1,8 @@
 field,display_name,browse_link,external_link
-type,Type,,
+type,Type,true,
 species, Species,true,
 features,Features,true,
-altitudeid,Altitude,,
+altitudeid,Altitude,true,
 identifier,Cloud identifier,true,
 description,Description,,
 season,Season,,
