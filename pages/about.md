@@ -3,7 +3,7 @@ title: About
 layout: about
 permalink: /about.html
 # include CollectionBuilder info at bottom
-credits: false
+credits: true
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
@@ -23,32 +23,42 @@ Also, certain meteors are named based on their constituent particles; for exampl
   
 ## Clouds classification
 
-Definition of a cloud (Section 2.1.1)
+Definition of a cloud (Section 2.1.1, International Cloud Atlas)
 
-A cloud is a hydrometeor consisting of minute particles of liquid water or ice, or of both, suspended in the atmosphere and usually not touching the ground. It may also include larger particles of liquid water or ice, as well as non-aqueous liquid or solid particles such as those present in fumes, smoke or dust.
+"A cloud is a hydrometeor consisting of minute particles of liquid water or ice, or of both, suspended in the atmosphere and usually not touching the ground. It may also include larger particles of liquid water or ice, as well as non-aqueous liquid or solid particles such as those present in fumes, smoke or dust."
 
 <!--Types of clouds depending on altitude -->
+
 <img src="objects/altitude_type_clouds_schemma.jpg" width="100%">
 
-*The caption for my image*
 
 
-## Author
+*HIGH level clouds] > (Ci - Cirrus), (Cs - Cirrustratus), (Cc - Cirrucumulus); [MIDDLE level clouds] > (Ac - Altocumulus), (As - Altostratus), (Ns - Nimbostratus); [LOW level] > (Sc - Stratocumulus), (St - Stratus), (Cu - Cumulus); [Multilevel clouds] > (Cumulonimbus).*
 
-Leobardo Óscar Alcántara Ocaña. Photographer, Librarian and Web designer.
 
-<p> I'm not a meteorologist. I'm just an enthusiast of weather phenomena and cloud observation and appreciation. Therefore, cloud classification may not be accurate.
-For comprehensive technical and accurate data and information about clouds and other meteors, visit the <a href="https://cloudatlas.wmo.int/en/foreword-to-the-2017-edition.html" title=""> 
-"International Cloud Atlas" </a> from the <a href="" title="https://wmo.int/"> World Meteorological Organization </a>. </p>
+## About the Author
 
-Feel free to email me at leobardooscar@gmail.com if you have any data corrections, comments or suggestions.
+### Leobardo Óscar Alcántara Ocaña
+##### Photographer, Librarian and Web designer.
 
-Happy watching! :-)
+<p> Enthusiast of weather phenomena and cloud observation and appreciation. </p> 
+
+**[Note]**
+
+- Since I'm not a meteologist, cloud classification may not be accurate.
+
+- For comprehensive scientific and technical information about clouds -and other meteors, visit the <a href="https://cloudatlas.wmo.int/en/foreword-to-the-2017-edition.html" title=""> 
+"International Cloud Atlas" </a> from the <a href="" title="https://wmo.int/"> World Meteorological Organization </a>. 
+
+If you have any classification corrections or comments, feel free to email me at leobardooscar@gmail.com 
+
+<i> Happy hunting & watching! </i> :-)
 
 
 
 ## About the Collection
 
+<!--
 This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
 
 - a CSV of collection metadata
@@ -58,7 +68,7 @@ The template repository features four objects from the University of Idaho Libra
 
 For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
 
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
+ IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
 
 <!-- Line commented LOAO -->
 {% comment %}

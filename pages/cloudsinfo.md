@@ -6,6 +6,6 @@ permalink: /cloudsinfo.html
 # a table visualization will be added below the content in this file
 ---
 
-## Definition of clouds
 
+## Definition of clouds
 

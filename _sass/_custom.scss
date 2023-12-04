@@ -10,6 +10,21 @@ li a.active
 background-color: #FF4500;
 }
 
+/* Ajustes Header */
+
+
+
+div.container div > div#title
+{
+    background-color: #E0F4FF;
+    padding: 1% 0 1% 3%
+}
+
+
+
+
+
+
 /* Ajustes ABOUT */
 
 .about-contents>p, .about-contents>.about-narrowed-content, .about-contents>.footnotes, .about-contents>ol, .about-contents>ul 
@@ -17,7 +32,10 @@ background-color: #FF4500;
     max-width: 90%;
 }
 
-
+div.about-contents div.bg-opacity-75
+{
+    --bs-bg-opacity: 0.55;
+}
 
 
 /* Header */
