@@ -45,7 +45,7 @@ Definition of a cloud (Section 2.1.1, International Cloud Atlas)
 
 **[Note]**
 
-- Since I'm not a meteologist, cloud classification may not be accurate.
+- Since I'm not a meteorologist, cloud classification may not be accurate.
 
 - For comprehensive scientific and technical information about clouds -and other meteors, visit the <a href="https://cloudatlas.wmo.int/en/foreword-to-the-2017-edition.html" title=""> 
 "International Cloud Atlas" </a> from the <a href="" title="https://wmo.int/"> World Meteorological Organization </a>. 
