@@ -1,18 +1,24 @@
 ---
-# "Data" page with table and data download options
-layout: item
-# custom-foot: js/table-js.html
+# generic page layout
+layout: default
 ---
-{% assign fields = site.data.config-table | map: 'display_name' %}
 
-{% include feature/accordion.html title1="Test" open=true text1=clouds  %}
 
-<!-- Agrega leyenda -->
+<div class="container my-4">
 {{ content }}
+    
+    <!-- 
+    {% include feature/accordion.html 
+        title1="High clouds" text1="Variable 1" 
+        
+        title2="Middle clouds" text2="Variable 2" 
+        
+        title3="Lowclouds" text3="Variable 3"
+    
+    %}
+-->
 
-<!-- Approximate heights of each level, and the genera occurring in each. -->
 
-
-
+</div>
 
 
